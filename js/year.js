@@ -1,0 +1,1 @@
+var copyright = "<p class=\"container copyright\">Copyright &copy; World Wide Slang 2015</p>";
